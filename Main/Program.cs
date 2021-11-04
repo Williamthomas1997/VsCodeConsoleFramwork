@@ -11,6 +11,7 @@ namespace Main
         static void Main(string[] args)
         {
             Console.WriteLine("Framework is working");
+            Console.WriteLine("Added to github");
         }
     }
 }
